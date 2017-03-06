@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<deviceVariant value="MSP430FR6989"/>
+	<deviceFamily value="MSP430"/>
+	<codegenToolVersion value="4.4.7"/>
+	<isElfFormat value="true"/>
+	<linkerCommandFile value="lnk_msp430fr6989.cmd"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<origin value="D:\CCS\Landing Gear\OutOfBox_MSP430FR6989\CCS\OutOfBox_MSP430FR6989.projectspec"/>
+	<templateProperties value="id=OutOfBox_MSP430FR6989.projectspec.OutOfBox_MSP430FR6989,"/>
+</projectOptions>
